@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433876697716",
+    "project_id": "tale3ne",
+    "storage_bucket": "tale3ne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433876697716:android:2638266d304a9cd7b84721",
+        "android_client_info": {
+          "package_name": "com.example.tale3ne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjyt49O2JSnKB4Ox_MLdtCJVJRB_w-5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
